@@ -1,0 +1,10 @@
+D:\cackythuat_DesignPattern\Structural\adapter\adapter\bin\Debug\adapter.exe.config
+D:\cackythuat_DesignPattern\Structural\adapter\adapter\bin\Debug\adapter.exe
+D:\cackythuat_DesignPattern\Structural\adapter\adapter\bin\Debug\adapter.pdb
+D:\cackythuat_DesignPattern\Structural\adapter\adapter\obj\Debug\adapter.csprojAssemblyReference.cache
+D:\cackythuat_DesignPattern\Structural\adapter\adapter\obj\Debug\adapter.Form1.resources
+D:\cackythuat_DesignPattern\Structural\adapter\adapter\obj\Debug\adapter.Properties.Resources.resources
+D:\cackythuat_DesignPattern\Structural\adapter\adapter\obj\Debug\adapter.csproj.GenerateResource.cache
+D:\cackythuat_DesignPattern\Structural\adapter\adapter\obj\Debug\adapter.csproj.CoreCompileInputs.cache
+D:\cackythuat_DesignPattern\Structural\adapter\adapter\obj\Debug\adapter.exe
+D:\cackythuat_DesignPattern\Structural\adapter\adapter\obj\Debug\adapter.pdb

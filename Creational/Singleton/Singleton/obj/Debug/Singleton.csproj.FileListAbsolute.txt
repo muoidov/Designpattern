@@ -1,0 +1,10 @@
+D:\cackythuat_DesignPattern\Creational\Singleton\Singleton\obj\Debug\Singleton.csprojAssemblyReference.cache
+D:\cackythuat_DesignPattern\Creational\Singleton\Singleton\obj\Debug\Singleton.Form1.resources
+D:\cackythuat_DesignPattern\Creational\Singleton\Singleton\obj\Debug\Singleton.Properties.Resources.resources
+D:\cackythuat_DesignPattern\Creational\Singleton\Singleton\obj\Debug\Singleton.csproj.GenerateResource.cache
+D:\cackythuat_DesignPattern\Creational\Singleton\Singleton\obj\Debug\Singleton.csproj.CoreCompileInputs.cache
+D:\cackythuat_DesignPattern\Creational\Singleton\Singleton\bin\Debug\Singleton.exe.config
+D:\cackythuat_DesignPattern\Creational\Singleton\Singleton\bin\Debug\Singleton.exe
+D:\cackythuat_DesignPattern\Creational\Singleton\Singleton\bin\Debug\Singleton.pdb
+D:\cackythuat_DesignPattern\Creational\Singleton\Singleton\obj\Debug\Singleton.exe
+D:\cackythuat_DesignPattern\Creational\Singleton\Singleton\obj\Debug\Singleton.pdb

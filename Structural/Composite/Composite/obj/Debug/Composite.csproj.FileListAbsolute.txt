@@ -1,0 +1,10 @@
+D:\cackythuat_DesignPattern\Structural\Composite\Composite\obj\Debug\Composite.csprojAssemblyReference.cache
+D:\cackythuat_DesignPattern\Structural\Composite\Composite\obj\Debug\Composite.Form1.resources
+D:\cackythuat_DesignPattern\Structural\Composite\Composite\obj\Debug\Composite.Properties.Resources.resources
+D:\cackythuat_DesignPattern\Structural\Composite\Composite\obj\Debug\Composite.csproj.GenerateResource.cache
+D:\cackythuat_DesignPattern\Structural\Composite\Composite\obj\Debug\Composite.csproj.CoreCompileInputs.cache
+D:\cackythuat_DesignPattern\Structural\Composite\Composite\bin\Debug\Composite.exe.config
+D:\cackythuat_DesignPattern\Structural\Composite\Composite\bin\Debug\Composite.exe
+D:\cackythuat_DesignPattern\Structural\Composite\Composite\bin\Debug\Composite.pdb
+D:\cackythuat_DesignPattern\Structural\Composite\Composite\obj\Debug\Composite.exe
+D:\cackythuat_DesignPattern\Structural\Composite\Composite\obj\Debug\Composite.pdb

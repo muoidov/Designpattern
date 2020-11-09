@@ -1,0 +1,7 @@
+#pattern popular
+
+Abstract Factory
+Builder
+Factory
+Prototype
+Singleton

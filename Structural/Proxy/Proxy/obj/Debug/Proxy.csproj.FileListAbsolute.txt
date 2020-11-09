@@ -1,0 +1,10 @@
+D:\cackythuat_DesignPattern\Structural\Proxy\Proxy\obj\Debug\Proxy.csprojAssemblyReference.cache
+D:\cackythuat_DesignPattern\Structural\Proxy\Proxy\obj\Debug\Proxy.Form1.resources
+D:\cackythuat_DesignPattern\Structural\Proxy\Proxy\obj\Debug\Proxy.Properties.Resources.resources
+D:\cackythuat_DesignPattern\Structural\Proxy\Proxy\obj\Debug\Proxy.csproj.GenerateResource.cache
+D:\cackythuat_DesignPattern\Structural\Proxy\Proxy\obj\Debug\Proxy.csproj.CoreCompileInputs.cache
+D:\cackythuat_DesignPattern\Structural\Proxy\Proxy\bin\Debug\Proxy.exe.config
+D:\cackythuat_DesignPattern\Structural\Proxy\Proxy\bin\Debug\Proxy.exe
+D:\cackythuat_DesignPattern\Structural\Proxy\Proxy\bin\Debug\Proxy.pdb
+D:\cackythuat_DesignPattern\Structural\Proxy\Proxy\obj\Debug\Proxy.exe
+D:\cackythuat_DesignPattern\Structural\Proxy\Proxy\obj\Debug\Proxy.pdb
